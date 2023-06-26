@@ -53,3 +53,6 @@ After a person has passed away, we flag their account as "dead." During the init
 While we did not leverage NFTs in our current implementation, we intend to explore the concept of granting users an NFT when they create a will account. This NFT could then be airdropped to trusted contacts after the user's passing, serving as a means of accessing the will and account within our platform. However, the NFT would only allow viewing of the will and wouldn't permit modifications. Its primary purpose would be to trigger the distribution of assets.
 
 In conclusion, we are pleased with our first blockchain project and the participation of many team members in their first-ever hackathon.
+
+# Link to Project
+https://ethglobal.com/showcase/will3-0r705
